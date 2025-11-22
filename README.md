@@ -1,3 +1,4 @@
+Migalkó Patrik U3IVIN
 # PM Névjegy-kezelő
 
 Ez a beadandó egy **egyszerű névjegy-kezelő program**, amely a követelményeknek megfelelően tartalmaz:
